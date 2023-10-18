@@ -1,0 +1,27 @@
+[
+ {
+ "directory" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna/main.cc"
+ },
+ {
+ "directory" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna",
+ "command" : "clang++ -std=c++17 player.cc -o main",
+ "file" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna/player.cc"
+ },
+ {
+ "directory" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna",
+ "command" : "clang++ -std=c++17 opponent.cc -o main",
+ "file" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna/opponent.cc"
+ },
+ {
+ "directory" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna",
+ "command" : "clang++ -std=c++17 game_element.cc -o main",
+ "file" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna/game_element.cc"
+ },
+ {
+ "directory" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna",
+ "command" : "clang++ -std=c++17 game.cc -o main",
+ "file" : "/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna/game.cc"
+ },
+]

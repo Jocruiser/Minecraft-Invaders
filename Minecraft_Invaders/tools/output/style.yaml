@@ -1,0 +1,22 @@
+---
+MainSourceFile:  '/home/joannacruz/Documents/project-1---milestone-5-dustin-and-joanna/player.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''OpponentProjectile'''
+      FilePath:        './opponent.h'
+      FileOffset:      330
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no member named ''Get'' in ''Opponent'''
+      FilePath:        opponent.cc
+      FileOffset:      1979
+      Replacements:    []
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'use of undeclared identifier ''X'''
+      FilePath:        opponent.cc
+      FileOffset:      1983
+      Replacements:    []
+...
